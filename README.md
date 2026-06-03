@@ -22,7 +22,7 @@ The goal of this repository is to:
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 1      |
+| Arrays              | 2      |
 | Strings             | 0      |
 | Linked List         | 0      |
 | Stack               | 0      |
@@ -32,15 +32,16 @@ The goal of this repository is to:
 | Greedy              | 1      |
 | Dynamic Programming | 0      |
 
-**Total Problems Solved: 2**
+**Total Problems Solved: 3**
 
 ---
 
 ## Arrays
 
-| Problem No | Problem Name                                    | Difficulty |
-| ---------- | ----------------------------------------------- | ---------- |
-| 3633       | Earliest Finish Time for Land and Water Rides I | Easy       |
+| Problem No | Problem Name                                     | Difficulty |
+| ---------- | ------------------------------------------------ | ---------- |
+| 3633       | Earliest Finish Time for Land and Water Rides I  | Easy       |
+| 3635       | Earliest Finish Time for Land and Water Rides II | Medium     |
 
 ---
 
@@ -58,7 +59,8 @@ The goal of this repository is to:
 DSA-Journey-2026
 │
 ├── Arrays
-│   └── 3633_Earliest_Finish_Time_For_Land_And_Water_Rides_I.cpp
+│   ├── 3633_Earliest_Finish_Time_For_Land_And_Water_Rides_I.cpp
+│   └── 3635_Earliest_Finish_Time_For_Land_And_Water_Rides_II.cpp
 │
 ├── Greedy
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
