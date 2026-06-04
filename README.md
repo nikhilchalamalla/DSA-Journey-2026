@@ -30,9 +30,10 @@ The goal of this repository is to:
 | Trees               | 0      |
 | Graphs              | 0      |
 | Greedy              | 1      |
+| Math                | 1      |
 | Dynamic Programming | 0      |
 
-**Total Problems Solved: 3**
+**Total Problems Solved: 4**
 
 ---
 
@@ -53,6 +54,14 @@ The goal of this repository is to:
 
 ---
 
+## Math
+
+| Problem No | Problem Name                         | Difficulty |
+| ---------- | ------------------------------------ | ---------- |
+| 3751       | Total Waviness of Numbers in Range I | Medium     |
+
+---
+
 ## Repository Structure
 
 ```text
@@ -64,6 +73,9 @@ DSA-Journey-2026
 │
 ├── Greedy
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
+│
+├── Math
+│   └── 3751_Total_Waviness_Of_Numbers_In_Range_I.cpp
 │
 └── README.md
 ```
