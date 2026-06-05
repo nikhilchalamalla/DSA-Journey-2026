@@ -31,9 +31,9 @@ The goal of this repository is to:
 | Graphs              | 0      |
 | Greedy              | 1      |
 | Math                | 1      |
-| Dynamic Programming | 0      |
+| Dynamic Programming | 1      |
 
-**Total Problems Solved: 4**
+**Total Problems Solved: 5**
 
 ---
 
@@ -62,6 +62,14 @@ The goal of this repository is to:
 
 ---
 
+## Dynamic Programming
+
+| Problem No | Problem Name                          | Difficulty |
+| ---------- | ------------------------------------- | ---------- |
+| 3753       | Total Waviness of Numbers in Range II | Hard       |
+
+---
+
 ## Repository Structure
 
 ```text
@@ -76,6 +84,9 @@ DSA-Journey-2026
 │
 ├── Math
 │   └── 3751_Total_Waviness_Of_Numbers_In_Range_I.cpp
+│
+├── Dynamic_Programming
+│   └── 3753_Total_Waviness_Of_Numbers_In_Range_II.cpp
 │
 └── README.md
 ```
