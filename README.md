@@ -22,7 +22,7 @@ The goal of this repository is to:
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 2      |
+| Arrays              | 3      |
 | Strings             | 0      |
 | Linked List         | 0      |
 | Stack               | 0      |
@@ -33,7 +33,7 @@ The goal of this repository is to:
 | Math                | 1      |
 | Dynamic Programming | 1      |
 
-**Total Problems Solved: 5**
+**Total Problems Solved: 6**
 
 ---
 
@@ -41,6 +41,7 @@ The goal of this repository is to:
 
 | Problem No | Problem Name                                     | Difficulty |
 | ---------- | ------------------------------------------------ | ---------- |
+| 2574       | Left and Right Sum Differences                   | Easy       |
 | 3633       | Earliest Finish Time for Land and Water Rides I  | Easy       |
 | 3635       | Earliest Finish Time for Land and Water Rides II | Medium     |
 
@@ -76,6 +77,7 @@ The goal of this repository is to:
 DSA-Journey-2026
 │
 ├── Arrays
+│   ├── 2574_Left_And_Right_Sum_Differences.cpp
 │   ├── 3633_Earliest_Finish_Time_For_Land_And_Water_Rides_I.cpp
 │   └── 3635_Earliest_Finish_Time_For_Land_And_Water_Rides_II.cpp
 │
@@ -114,6 +116,16 @@ DSA-Journey-2026
 - Master core data structures and algorithms
 - Prepare for product-based company interviews
 - Improve problem-solving consistency
+
+---
+
+## Milestones
+
+- ✅ First LeetCode Easy Problem Added
+- ✅ First LeetCode Medium Problem Added
+- ✅ First LeetCode Hard Problem Added
+- ✅ First Digit DP Problem Solved
+- 🔥 Maintaining Daily LeetCode Streak
 
 ---
 
