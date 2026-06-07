@@ -27,13 +27,13 @@ The goal of this repository is to:
 | Linked List         | 0      |
 | Stack               | 0      |
 | Queue               | 0      |
-| Trees               | 0      |
+| Trees               | 1      |
 | Graphs              | 0      |
 | Greedy              | 1      |
 | Math                | 1      |
 | Dynamic Programming | 1      |
 
-**Total Problems Solved: 6**
+**Total Problems Solved: 7**
 
 ---
 
@@ -44,6 +44,14 @@ The goal of this repository is to:
 | 2574       | Left and Right Sum Differences                   | Easy       |
 | 3633       | Earliest Finish Time for Land and Water Rides I  | Easy       |
 | 3635       | Earliest Finish Time for Land and Water Rides II | Medium     |
+
+---
+
+## Trees
+
+| Problem No | Problem Name                         | Difficulty |
+| ---------- | ------------------------------------ | ---------- |
+| 2196       | Create Binary Tree From Descriptions | Medium     |
 
 ---
 
@@ -80,6 +88,9 @@ DSA-Journey-2026
 │   ├── 2574_Left_And_Right_Sum_Differences.cpp
 │   ├── 3633_Earliest_Finish_Time_For_Land_And_Water_Rides_I.cpp
 │   └── 3635_Earliest_Finish_Time_For_Land_And_Water_Rides_II.cpp
+│
+├── Trees
+│   └── 2196_Create_Binary_Tree_From_Descriptions.cpp
 │
 ├── Greedy
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
@@ -124,6 +135,7 @@ DSA-Journey-2026
 - ✅ First LeetCode Easy Problem Added
 - ✅ First LeetCode Medium Problem Added
 - ✅ First LeetCode Hard Problem Added
+- ✅ First Tree Construction Problem Solved
 - ✅ First Digit DP Problem Solved
 - 🔥 Maintaining Daily LeetCode Streak
 
