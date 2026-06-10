@@ -32,8 +32,9 @@ The goal of this repository is to:
 | Greedy              | 1      |
 | Math                | 1      |
 | Dynamic Programming | 1      |
+| Priority Queue      | 1      |
 
-**Total Problems Solved: 9**
+**Total Problems Solved: 10**
 
 ---
 
@@ -81,6 +82,14 @@ The goal of this repository is to:
 
 ---
 
+## Priority Queue
+
+| Problem No | Problem Name                    | Difficulty |
+| ---------- | ------------------------------- | ---------- |
+| 3691       | Maximum Total Subarray Value II | Hard       |
+
+---
+
 ## Repository Structure
 
 ```text
@@ -104,6 +113,9 @@ DSA-Journey-2026
 │
 ├── Dynamic_Programming
 │   └── 3753_Total_Waviness_Of_Numbers_In_Range_II.cpp
+│
+├── Priority_Queue
+│   └── 3691_Maximum_Total_Subarray_Value_II.cpp
 │
 └── README.md
 ```
@@ -141,8 +153,19 @@ DSA-Journey-2026
 - ✅ First LeetCode Hard Problem Added
 - ✅ First Tree Construction Problem Solved
 - ✅ First Digit DP Problem Solved
+- ✅ First Priority Queue Problem Solved
 - 🔥 Maintaining Daily LeetCode Streak
-- 🎯 Reached 9 Documented Problems
+- 🎯 Reached 10 Documented Problems
+
+---
+
+## Difficulty Breakdown
+
+| Difficulty | Count |
+| ---------- | ----- |
+| Easy       | 3     |
+| Medium     | 5     |
+| Hard       | 2     |
 
 ---
 
