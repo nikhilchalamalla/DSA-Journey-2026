@@ -1,24 +1,33 @@
 # DSA Journey 2026 🚀
 
-Welcome to my Data Structures and Algorithms Journey.
+Welcome to my **Data Structures and Algorithms Journey**.
 
-This repository contains my solutions to coding problems solved on various platforms such as:
+This repository contains my solutions to coding problems solved on various platforms:
 
 - LeetCode
 - GeeksforGeeks
 - HackerRank
 - Coding Ninjas
 
-The goal of this repository is to:
+### 🎯 Objectives
 
 - Strengthen problem-solving skills
+- Master Data Structures & Algorithms
 - Prepare for coding interviews
-- Improve DSA concepts
 - Track daily learning progress
+- Build consistency through daily practice
 
 ---
 
-## Progress Tracker
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nikhilchalamalla&theme=github-dark" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Progress Tracker
 
 | Topic               | Solved |
 | ------------------- | ------ |
@@ -34,11 +43,11 @@ The goal of this repository is to:
 | Dynamic Programming | 1      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 10**
+### Total Problems Solved: **10**
 
 ---
 
-## Arrays
+## 📚 Arrays
 
 | Problem No | Problem Name                                     | Difficulty |
 | ---------- | ------------------------------------------------ | ---------- |
@@ -50,7 +59,7 @@ The goal of this repository is to:
 
 ---
 
-## Trees
+## 🌳 Trees
 
 | Problem No | Problem Name                         | Difficulty |
 | ---------- | ------------------------------------ | ---------- |
@@ -58,7 +67,7 @@ The goal of this repository is to:
 
 ---
 
-## Greedy
+## 🎯 Greedy
 
 | Problem No | Problem Name                                 | Difficulty |
 | ---------- | -------------------------------------------- | ---------- |
@@ -66,7 +75,7 @@ The goal of this repository is to:
 
 ---
 
-## Math
+## 🧮 Math
 
 | Problem No | Problem Name                         | Difficulty |
 | ---------- | ------------------------------------ | ---------- |
@@ -74,7 +83,7 @@ The goal of this repository is to:
 
 ---
 
-## Dynamic Programming
+## ⚡ Dynamic Programming
 
 | Problem No | Problem Name                          | Difficulty |
 | ---------- | ------------------------------------- | ---------- |
@@ -82,7 +91,7 @@ The goal of this repository is to:
 
 ---
 
-## Priority Queue
+## 🔝 Priority Queue
 
 | Problem No | Problem Name                    | Difficulty |
 | ---------- | ------------------------------- | ---------- |
@@ -90,45 +99,29 @@ The goal of this repository is to:
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 DSA-Journey-2026
 │
 ├── Arrays
-│   ├── 2161_Partition_Array_According_To_Given_Pivot.cpp
-│   ├── 2574_Left_And_Right_Sum_Differences.cpp
-│   ├── 3633_Earliest_Finish_Time_For_Land_And_Water_Rides_I.cpp
-│   ├── 3635_Earliest_Finish_Time_For_Land_And_Water_Rides_II.cpp
-│   └── 3689_Maximum_Total_Subarray_Value_I.cpp
-│
-├── Trees
-│   └── 2196_Create_Binary_Tree_From_Descriptions.cpp
-│
-├── Greedy
-│   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
-│
-├── Math
-│   └── 3751_Total_Waviness_Of_Numbers_In_Range_I.cpp
-│
 ├── Dynamic_Programming
-│   └── 3753_Total_Waviness_Of_Numbers_In_Range_II.cpp
-│
+├── Greedy
+├── Math
 ├── Priority_Queue
-│   └── 3691_Maximum_Total_Subarray_Value_II.cpp
-│
+├── Trees
 └── README.md
 ```
 
 ---
 
-## Languages Used
+## 💻 Language Used
 
 - C++
 
 ---
 
-## Platforms
+## 🌐 Platforms
 
 - LeetCode
 - GeeksforGeeks
@@ -137,16 +130,17 @@ DSA-Journey-2026
 
 ---
 
-## Current Goal
+## 🚀 Current Goals
 
-- Solve 300+ DSA problems
-- Master core data structures and algorithms
-- Prepare for product-based company interviews
-- Improve problem-solving consistency
+- Solve 300+ DSA Problems
+- Master Core Data Structures
+- Master Algorithms
+- Prepare for Product-Based Companies
+- Improve Problem-Solving Consistency
 
 ---
 
-## Milestones
+## 🏆 Milestones
 
 - ✅ First LeetCode Easy Problem Added
 - ✅ First LeetCode Medium Problem Added
@@ -159,7 +153,7 @@ DSA-Journey-2026
 
 ---
 
-## Difficulty Breakdown
+## 📊 Difficulty Breakdown
 
 | Difficulty | Count |
 | ---------- | ----- |
@@ -169,10 +163,12 @@ DSA-Journey-2026
 
 ---
 
-### Started On
+## 📅 Started On
 
-June 2026
+**June 2026**
 
-### Maintained By
+---
+
+## 👨‍💻 Maintained By
 
 **Nikhil Chalamalla**
