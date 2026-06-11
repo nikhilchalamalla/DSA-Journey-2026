@@ -1,33 +1,24 @@
 # DSA Journey 2026 🚀
 
-Welcome to my **Data Structures and Algorithms Journey**.
+Welcome to my Data Structures and Algorithms Journey.
 
-This repository contains my solutions to coding problems solved on various platforms:
+This repository contains my solutions to coding problems solved on various platforms such as:
 
-- LeetCode
-- GeeksforGeeks
-- HackerRank
-- Coding Ninjas
+* LeetCode
+* GeeksforGeeks
+* HackerRank
+* Coding Ninjas
 
-### 🎯 Objectives
+The goal of this repository is to:
 
-- Strengthen problem-solving skills
-- Master Data Structures & Algorithms
-- Prepare for coding interviews
-- Track daily learning progress
-- Build consistency through daily practice
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikhilchalamalla&theme=github-dark" alt="GitHub Streak"/>
-</p>
+* Strengthen problem-solving skills
+* Prepare for coding interviews
+* Improve DSA concepts
+* Track daily learning progress
 
 ---
 
-## 📈 Progress Tracker
+## Progress Tracker
 
 | Topic               | Solved |
 | ------------------- | ------ |
@@ -36,18 +27,18 @@ This repository contains my solutions to coding problems solved on various platf
 | Linked List         | 0      |
 | Stack               | 0      |
 | Queue               | 0      |
-| Trees               | 1      |
+| Trees               | 2      |
 | Graphs              | 0      |
 | Greedy              | 1      |
 | Math                | 1      |
 | Dynamic Programming | 1      |
 | Priority Queue      | 1      |
 
-### Total Problems Solved: **10**
+**Total Problems Solved: 11**
 
 ---
 
-## 📚 Arrays
+## Arrays
 
 | Problem No | Problem Name                                     | Difficulty |
 | ---------- | ------------------------------------------------ | ---------- |
@@ -59,15 +50,16 @@ This repository contains my solutions to coding problems solved on various platf
 
 ---
 
-## 🌳 Trees
+## Trees
 
-| Problem No | Problem Name                         | Difficulty |
-| ---------- | ------------------------------------ | ---------- |
-| 2196       | Create Binary Tree From Descriptions | Medium     |
+| Problem No | Problem Name                            | Difficulty |
+| ---------- | --------------------------------------- | ---------- |
+| 2196       | Create Binary Tree From Descriptions    | Medium     |
+| 3558       | Number of Ways to Assign Edge Weights I | Medium     |
 
 ---
 
-## 🎯 Greedy
+## Greedy
 
 | Problem No | Problem Name                                 | Difficulty |
 | ---------- | -------------------------------------------- | ---------- |
@@ -75,7 +67,7 @@ This repository contains my solutions to coding problems solved on various platf
 
 ---
 
-## 🧮 Math
+## Math
 
 | Problem No | Problem Name                         | Difficulty |
 | ---------- | ------------------------------------ | ---------- |
@@ -83,7 +75,7 @@ This repository contains my solutions to coding problems solved on various platf
 
 ---
 
-## ⚡ Dynamic Programming
+## Dynamic Programming
 
 | Problem No | Problem Name                          | Difficulty |
 | ---------- | ------------------------------------- | ---------- |
@@ -91,7 +83,7 @@ This repository contains my solutions to coding problems solved on various platf
 
 ---
 
-## 🔝 Priority Queue
+## Priority Queue
 
 | Problem No | Problem Name                    | Difficulty |
 | ---------- | ------------------------------- | ---------- |
@@ -99,76 +91,91 @@ This repository contains my solutions to coding problems solved on various platf
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 DSA-Journey-2026
 │
 ├── Arrays
-├── Dynamic_Programming
-├── Greedy
-├── Math
-├── Priority_Queue
+│   ├── 2161_Partition_Array_According_To_Given_Pivot.cpp
+│   ├── 2574_Left_And_Right_Sum_Differences.cpp
+│   ├── 3633_Earliest_Finish_Time_For_Land_And_Water_Rides_I.cpp
+│   ├── 3635_Earliest_Finish_Time_For_Land_And_Water_Rides_II.cpp
+│   └── 3689_Maximum_Total_Subarray_Value_I.cpp
+│
 ├── Trees
+│   ├── 2196_Create_Binary_Tree_From_Descriptions.cpp
+│   └── 3558_Number_Of_Ways_To_Assign_Edge_Weights_I.cpp
+│
+├── Greedy
+│   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
+│
+├── Math
+│   └── 3751_Total_Waviness_Of_Numbers_In_Range_I.cpp
+│
+├── Dynamic_Programming
+│   └── 3753_Total_Waviness_Of_Numbers_In_Range_II.cpp
+│
+├── Priority_Queue
+│   └── 3691_Maximum_Total_Subarray_Value_II.cpp
+│
 └── README.md
 ```
 
 ---
 
-## 💻 Language Used
+## Languages Used
 
-- C++
-
----
-
-## 🌐 Platforms
-
-- LeetCode
-- GeeksforGeeks
-- HackerRank
-- Coding Ninjas
+* C++
 
 ---
 
-## 🚀 Current Goals
+## Platforms
 
-- Solve 300+ DSA Problems
-- Master Core Data Structures
-- Master Algorithms
-- Prepare for Product-Based Companies
-- Improve Problem-Solving Consistency
-
----
-
-## 🏆 Milestones
-
-- ✅ First LeetCode Easy Problem Added
-- ✅ First LeetCode Medium Problem Added
-- ✅ First LeetCode Hard Problem Added
-- ✅ First Tree Construction Problem Solved
-- ✅ First Digit DP Problem Solved
-- ✅ First Priority Queue Problem Solved
-- 🔥 Maintaining Daily LeetCode Streak
-- 🎯 Reached 10 Documented Problems
+* LeetCode
+* GeeksforGeeks
+* HackerRank
+* Coding Ninjas
 
 ---
 
-## 📊 Difficulty Breakdown
+## Current Goal
+
+* Solve 300+ DSA problems
+* Master core data structures and algorithms
+* Prepare for product-based company interviews
+* Improve problem-solving consistency
+
+---
+
+## Milestones
+
+* ✅ First LeetCode Easy Problem Added
+* ✅ First LeetCode Medium Problem Added
+* ✅ First LeetCode Hard Problem Added
+* ✅ First Tree Construction Problem Solved
+* ✅ First Tree + Math Problem Solved
+* ✅ First Digit DP Problem Solved
+* ✅ First Priority Queue Problem Solved
+* 🔥 Maintaining Daily LeetCode Streak (42 Days)
+* 🎯 Reached 11 Documented Problems
+
+---
+
+## Difficulty Breakdown
 
 | Difficulty | Count |
 | ---------- | ----- |
 | Easy       | 3     |
-| Medium     | 5     |
+| Medium     | 6     |
 | Hard       | 2     |
 
 ---
 
-## 📅 Started On
+### Started On
 
-**June 2026**
+June 2026
 
----
-
-## 👨‍💻 Maintained By
+### Maintained By
 
 **Nikhil Chalamalla**
