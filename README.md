@@ -4,17 +4,17 @@ Welcome to my Data Structures and Algorithms Journey.
 
 This repository contains my solutions to coding problems solved on various platforms such as:
 
-* LeetCode
-* GeeksforGeeks
-* HackerRank
-* Coding Ninjas
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+- Coding Ninjas
 
 The goal of this repository is to:
 
-* Strengthen problem-solving skills
-* Prepare for coding interviews
-* Improve DSA concepts
-* Track daily learning progress
+- Strengthen problem-solving skills
+- Prepare for coding interviews
+- Improve DSA concepts
+- Track daily learning progress
 
 ---
 
@@ -27,14 +27,14 @@ The goal of this repository is to:
 | Linked List         | 0      |
 | Stack               | 0      |
 | Queue               | 0      |
-| Trees               | 2      |
-| Graphs              | 0      |
+| Trees               | 1      |
+| Graphs              | 2      |
 | Greedy              | 1      |
 | Math                | 1      |
 | Dynamic Programming | 1      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 11**
+**Total Problems Solved: 12**
 
 ---
 
@@ -52,10 +52,18 @@ The goal of this repository is to:
 
 ## Trees
 
-| Problem No | Problem Name                            | Difficulty |
-| ---------- | --------------------------------------- | ---------- |
-| 2196       | Create Binary Tree From Descriptions    | Medium     |
-| 3558       | Number of Ways to Assign Edge Weights I | Medium     |
+| Problem No | Problem Name                         | Difficulty |
+| ---------- | ------------------------------------ | ---------- |
+| 2196       | Create Binary Tree From Descriptions | Medium     |
+
+---
+
+## Graphs
+
+| Problem No | Problem Name                             | Difficulty |
+| ---------- | ---------------------------------------- | ---------- |
+| 3558       | Number of Ways to Assign Edge Weights I  | Medium     |
+| 3559       | Number of Ways to Assign Edge Weights II | Hard       |
 
 ---
 
@@ -104,11 +112,14 @@ DSA-Journey-2026
 │   └── 3689_Maximum_Total_Subarray_Value_I.cpp
 │
 ├── Trees
-│   ├── 2196_Create_Binary_Tree_From_Descriptions.cpp
-│   └── 3558_Number_Of_Ways_To_Assign_Edge_Weights_I.cpp
+│   └── 2196_Create_Binary_Tree_From_Descriptions.cpp
+│
+├── Graphs
+│   ├── 3558_Number_Of_Ways_To_Assign_Edge_Weights_I.cpp
+│   └── 3559_Number_Of_Ways_To_Assign_Edge_Weights_II.cpp
 │
 ├── Greedy
-│   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
+│   └── 2144_Minimum_Cost_Of_Buying_Candies_With_Discount.cpp
 │
 ├── Math
 │   └── 3751_Total_Waviness_Of_Numbers_In_Range_I.cpp
@@ -126,39 +137,40 @@ DSA-Journey-2026
 
 ## Languages Used
 
-* C++
+- C++
 
 ---
 
 ## Platforms
 
-* LeetCode
-* GeeksforGeeks
-* HackerRank
-* Coding Ninjas
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+- Coding Ninjas
 
 ---
 
 ## Current Goal
 
-* Solve 300+ DSA problems
-* Master core data structures and algorithms
-* Prepare for product-based company interviews
-* Improve problem-solving consistency
+- Solve 300+ DSA problems
+- Master core data structures and algorithms
+- Prepare for product-based company interviews
+- Improve problem-solving consistency
 
 ---
 
 ## Milestones
 
-* ✅ First LeetCode Easy Problem Added
-* ✅ First LeetCode Medium Problem Added
-* ✅ First LeetCode Hard Problem Added
-* ✅ First Tree Construction Problem Solved
-* ✅ First Tree + Math Problem Solved
-* ✅ First Digit DP Problem Solved
-* ✅ First Priority Queue Problem Solved
-* 🔥 Maintaining Daily LeetCode Streak (42 Days)
-* 🎯 Reached 11 Documented Problems
+- ✅ First LeetCode Easy Problem Added
+- ✅ First LeetCode Medium Problem Added
+- ✅ First LeetCode Hard Problem Added
+- ✅ First Tree Construction Problem Solved
+- ✅ First Graph Problem Solved
+- ✅ First LCA (Lowest Common Ancestor) Problem Solved
+- ✅ First Digit DP Problem Solved
+- ✅ First Priority Queue Problem Solved
+- 🔥 Maintaining Daily LeetCode Streak (43 Days)
+- 🎯 Reached 12 Documented Problems
 
 ---
 
@@ -167,8 +179,8 @@ DSA-Journey-2026
 | Difficulty | Count |
 | ---------- | ----- |
 | Easy       | 3     |
-| Medium     | 6     |
-| Hard       | 2     |
+| Medium     | 7     |
+| Hard       | 3     |
 
 ---
 
