@@ -23,7 +23,7 @@ The goal of this repository is to:
 | Topic               | Solved |
 | ------------------- | ------ |
 | Arrays              | 5      |
-| Strings             | 0      |
+| Strings             | 1      |
 | Linked List         | 0      |
 | Stack               | 0      |
 | Queue               | 0      |
@@ -34,7 +34,7 @@ The goal of this repository is to:
 | Dynamic Programming | 1      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 12**
+**Total Problems Solved: 13**
 
 ---
 
@@ -47,6 +47,14 @@ The goal of this repository is to:
 | 3633       | Earliest Finish Time for Land and Water Rides I  | Easy       |
 | 3635       | Earliest Finish Time for Land and Water Rides II | Medium     |
 | 3689       | Maximum Total Subarray Value I                   | Medium     |
+
+---
+
+## Strings
+
+| Problem No | Problem Name          | Difficulty |
+| ---------- | --------------------- | ---------- |
+| 3838       | Weighted Word Mapping | Easy       |
 
 ---
 
@@ -111,6 +119,9 @@ DSA-Journey-2026
 │   ├── 3635_Earliest_Finish_Time_For_Land_And_Water_Rides_II.cpp
 │   └── 3689_Maximum_Total_Subarray_Value_I.cpp
 │
+├── Strings
+│   └── 3838_Weighted_Word_Mapping.cpp
+│
 ├── Trees
 │   └── 2196_Create_Binary_Tree_From_Descriptions.cpp
 │
@@ -167,10 +178,11 @@ DSA-Journey-2026
 - ✅ First Tree Construction Problem Solved
 - ✅ First Graph Problem Solved
 - ✅ First LCA (Lowest Common Ancestor) Problem Solved
+- ✅ First String Mapping Problem Solved
 - ✅ First Digit DP Problem Solved
 - ✅ First Priority Queue Problem Solved
 - 🔥 Maintaining Daily LeetCode Streak (43 Days)
-- 🎯 Reached 12 Documented Problems
+- 🎯 Reached 13 Documented Problems
 
 ---
 
@@ -178,8 +190,8 @@ DSA-Journey-2026
 
 | Difficulty | Count |
 | ---------- | ----- |
-| Easy       | 3     |
-| Medium     | 7     |
+| Easy       | 4     |
+| Medium     | 6     |
 | Hard       | 3     |
 
 ---
