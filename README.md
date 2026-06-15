@@ -4,17 +4,17 @@ Welcome to my Data Structures and Algorithms Journey.
 
 This repository contains my solutions to coding problems solved on various platforms such as:
 
-* LeetCode
-* GeeksforGeeks
-* HackerRank
-* Coding Ninjas
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+- Coding Ninjas
 
 The goal of this repository is to:
 
-* Strengthen problem-solving skills
-* Prepare for coding interviews
-* Improve DSA concepts
-* Track daily learning progress
+- Strengthen problem-solving skills
+- Prepare for coding interviews
+- Improve DSA concepts
+- Track daily learning progress
 
 ---
 
@@ -24,7 +24,7 @@ The goal of this repository is to:
 | ------------------- | ------ |
 | Arrays              | 5      |
 | Strings             | 1      |
-| Linked List         | 1      |
+| Linked List         | 2      |
 | Stack               | 0      |
 | Queue               | 0      |
 | Trees               | 1      |
@@ -34,7 +34,7 @@ The goal of this repository is to:
 | Dynamic Programming | 1      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 14**
+**Total Problems Solved: 15**
 
 ---
 
@@ -60,9 +60,10 @@ The goal of this repository is to:
 
 ## Linked List
 
-| Problem No | Problem Name                      | Difficulty |
-| ---------- | --------------------------------- | ---------- |
-| 2130       | Maximum Twin Sum of a Linked List | Medium     |
+| Problem No | Problem Name                            | Difficulty |
+| ---------- | --------------------------------------- | ---------- |
+| 2095       | Delete the Middle Node of a Linked List | Medium     |
+| 2130       | Maximum Twin Sum of a Linked List       | Medium     |
 
 ---
 
@@ -131,6 +132,7 @@ DSA-Journey-2026
 │   └── 3838_Weighted_Word_Mapping.cpp
 │
 ├── Linked_List
+│   ├── 2095_Delete_The_Middle_Node_Of_A_Linked_List.cpp
 │   └── 2130_Maximum_Twin_Sum_Of_A_Linked_List.cpp
 │
 ├── Trees
@@ -159,42 +161,43 @@ DSA-Journey-2026
 
 ## Languages Used
 
-* C++
+- C++
 
 ---
 
 ## Platforms
 
-* LeetCode
-* GeeksforGeeks
-* HackerRank
-* Coding Ninjas
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+- Coding Ninjas
 
 ---
 
 ## Current Goal
 
-* Solve 300+ DSA problems
-* Master core data structures and algorithms
-* Prepare for product-based company interviews
-* Improve problem-solving consistency
+- Solve 300+ DSA problems
+- Master core data structures and algorithms
+- Prepare for product-based company interviews
+- Improve problem-solving consistency
 
 ---
 
 ## Milestones
 
-* ✅ First LeetCode Easy Problem Added
-* ✅ First LeetCode Medium Problem Added
-* ✅ First LeetCode Hard Problem Added
-* ✅ First Linked List Problem Solved
-* ✅ First Tree Construction Problem Solved
-* ✅ First Graph Problem Solved
-* ✅ First LCA (Lowest Common Ancestor) Problem Solved
-* ✅ First String Mapping Problem Solved
-* ✅ First Digit DP Problem Solved
-* ✅ First Priority Queue Problem Solved
-* 🔥 Maintaining Daily LeetCode Streak (45 Days)
-* 🎯 Reached 14 Documented Problems
+- ✅ First LeetCode Easy Problem Added
+- ✅ First LeetCode Medium Problem Added
+- ✅ First LeetCode Hard Problem Added
+- ✅ First Linked List Problem Solved
+- ✅ Solved Multiple Linked List Problems
+- ✅ First Tree Construction Problem Solved
+- ✅ First Graph Problem Solved
+- ✅ First LCA (Lowest Common Ancestor) Problem Solved
+- ✅ First String Mapping Problem Solved
+- ✅ First Digit DP Problem Solved
+- ✅ First Priority Queue Problem Solved
+- 🔥 Maintaining Daily LeetCode Streak (46 Days)
+- 🎯 Reached 15 Documented Problems
 
 ---
 
@@ -203,7 +206,7 @@ DSA-Journey-2026
 | Difficulty | Count |
 | ---------- | ----- |
 | Easy       | 4     |
-| Medium     | 7     |
+| Medium     | 8     |
 | Hard       | 3     |
 
 ---
