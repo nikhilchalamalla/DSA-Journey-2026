@@ -23,7 +23,7 @@ The goal of this repository is to:
 | Topic               | Solved |
 | ------------------- | ------ |
 | Arrays              | 5      |
-| Strings             | 2      |
+| Strings             | 3      |
 | Linked List         | 2      |
 | Stack               | 0      |
 | Queue               | 0      |
@@ -34,7 +34,7 @@ The goal of this repository is to:
 | Dynamic Programming | 1      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 16**
+**Total Problems Solved: 17**
 
 ---
 
@@ -52,10 +52,11 @@ The goal of this repository is to:
 
 ## Strings
 
-| Problem No | Problem Name                             | Difficulty |
-| ---------- | ---------------------------------------- | ---------- |
-| 3612       | Process String with Special Operations I | Medium     |
-| 3838       | Weighted Word Mapping                    | Easy       |
+| Problem No | Problem Name                              | Difficulty |
+| ---------- | ----------------------------------------- | ---------- |
+| 3612       | Process String with Special Operations I  | Medium     |
+| 3614       | Process String with Special Operations II | Hard       |
+| 3838       | Weighted Word Mapping                     | Easy       |
 
 ---
 
@@ -131,6 +132,7 @@ DSA-Journey-2026
 │
 ├── Strings
 │   ├── 3612_Process_String_With_Special_Operations_I.cpp
+│   ├── 3614_Process_String_With_Special_Operations_II.cpp
 │   └── 3838_Weighted_Word_Mapping.cpp
 │
 ├── Linked_List
@@ -197,10 +199,11 @@ DSA-Journey-2026
 - ✅ First LCA (Lowest Common Ancestor) Problem Solved
 - ✅ First String Mapping Problem Solved
 - ✅ First String Simulation Problem Solved
+- ✅ First Reverse Processing String Problem Solved
 - ✅ First Digit DP Problem Solved
 - ✅ First Priority Queue Problem Solved
-- 🔥 Maintaining Daily LeetCode Streak (46 Days)
-- 🎯 Reached 16 Documented Problems
+- 🔥 Maintaining Daily LeetCode Streak (47 Days)
+- 🎯 Reached 17 Documented Problems
 
 ---
 
@@ -210,7 +213,7 @@ DSA-Journey-2026
 | ---------- | ----- |
 | Easy       | 4     |
 | Medium     | 9     |
-| Hard       | 3     |
+| Hard       | 4     |
 
 ---
 
