@@ -30,11 +30,11 @@ The goal of this repository is to:
 | Trees               | 1      |
 | Graphs              | 2      |
 | Greedy              | 1      |
-| Math                | 1      |
+| Math                | 2      |
 | Dynamic Programming | 1      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 17**
+**Total Problems Solved: 18**
 
 ---
 
@@ -98,6 +98,7 @@ The goal of this repository is to:
 
 | Problem No | Problem Name                         | Difficulty |
 | ---------- | ------------------------------------ | ---------- |
+| 1344       | Angle Between Hands of a Clock       | Medium     |
 | 3751       | Total Waviness of Numbers in Range I | Medium     |
 
 ---
@@ -150,6 +151,7 @@ DSA-Journey-2026
 │   └── 2144_Minimum_Cost_Of_Buying_Candies_With_Discount.cpp
 │
 ├── Math
+│   ├── 1344_Angle_Between_Hands_Of_A_Clock.cpp
 │   └── 3751_Total_Waviness_Of_Numbers_In_Range_I.cpp
 │
 ├── Dynamic_Programming
@@ -200,10 +202,11 @@ DSA-Journey-2026
 - ✅ First String Mapping Problem Solved
 - ✅ First String Simulation Problem Solved
 - ✅ First Reverse Processing String Problem Solved
+- ✅ First Clock Geometry Problem Solved
 - ✅ First Digit DP Problem Solved
 - ✅ First Priority Queue Problem Solved
-- 🔥 Maintaining Daily LeetCode Streak (47 Days)
-- 🎯 Reached 17 Documented Problems
+- 🔥 Maintaining Daily LeetCode Streak (49 Days)
+- 🎯 Reached 18 Documented Problems
 
 ---
 
@@ -212,7 +215,7 @@ DSA-Journey-2026
 | Difficulty | Count |
 | ---------- | ----- |
 | Easy       | 4     |
-| Medium     | 9     |
+| Medium     | 10    |
 | Hard       | 4     |
 
 ---
