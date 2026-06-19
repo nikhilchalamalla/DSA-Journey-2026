@@ -220,10 +220,17 @@ DSA-Journey-2026
 
 ---
 
-### Started On
+## Started On
 
 June 2026
 
-### Maintained By
+## Maintained By
 
 **Nikhil Chalamalla**
+
+### Connect With Me
+
+- GitHub: https://github.com/nikhilchalamalla
+- LinkedIn: https://www.linkedin.com/in/chalamalla-nikhil/
+
+⭐ If you find this repository useful, feel free to star it and follow my coding journey!
