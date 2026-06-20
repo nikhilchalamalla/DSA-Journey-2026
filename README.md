@@ -22,7 +22,7 @@ The goal of this repository is to:
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 5      |
+| Arrays              | 6      |
 | Strings             | 3      |
 | Linked List         | 2      |
 | Stack               | 0      |
@@ -34,7 +34,7 @@ The goal of this repository is to:
 | Dynamic Programming | 1      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 18**
+**Total Problems Solved: 20**
 
 ---
 
@@ -42,6 +42,7 @@ The goal of this repository is to:
 
 | Problem No | Problem Name                                     | Difficulty |
 | ---------- | ------------------------------------------------ | ---------- |
+| 1732       | Find the Highest Altitude                        | Easy       |
 | 2161       | Partition Array According to Given Pivot         | Medium     |
 | 2574       | Left and Right Sum Differences                   | Easy       |
 | 3633       | Earliest Finish Time for Land and Water Rides I  | Easy       |
@@ -119,12 +120,21 @@ The goal of this repository is to:
 
 ---
 
+## Advanced Greedy / Math
+
+| Problem No | Problem Name            | Difficulty |
+| ---------- | ----------------------- | ---------- |
+| 1840       | Maximum Building Height | Hard       |
+
+---
+
 ## Repository Structure
 
 ```text
 DSA-Journey-2026
 │
 ├── Arrays
+│   ├── 1732_Find_The_Highest_Altitude.cpp
 │   ├── 2161_Partition_Array_According_To_Given_Pivot.cpp
 │   ├── 2574_Left_And_Right_Sum_Differences.cpp
 │   ├── 3633_Earliest_Finish_Time_For_Land_And_Water_Rides_I.cpp
@@ -159,6 +169,9 @@ DSA-Journey-2026
 │
 ├── Priority_Queue
 │   └── 3691_Maximum_Total_Subarray_Value_II.cpp
+│
+├── Advanced_Greedy_Math
+│   └── 1840_Maximum_Building_Height.cpp
 │
 └── README.md
 ```
@@ -203,10 +216,12 @@ DSA-Journey-2026
 - ✅ First String Simulation Problem Solved
 - ✅ First Reverse Processing String Problem Solved
 - ✅ First Clock Geometry Problem Solved
+- ✅ First Prefix Sum Problem Solved
+- ✅ First Advanced Greedy + Math Problem Solved
 - ✅ First Digit DP Problem Solved
 - ✅ First Priority Queue Problem Solved
-- 🔥 Maintaining Daily LeetCode Streak (49 Days)
-- 🎯 Reached 18 Documented Problems
+- 🔥 Maintaining Daily LeetCode Streak (51 Days)
+- 🎯 Reached 20 Documented Problems
 
 ---
 
@@ -214,9 +229,9 @@ DSA-Journey-2026
 
 | Difficulty | Count |
 | ---------- | ----- |
-| Easy       | 4     |
+| Easy       | 5     |
 | Medium     | 10    |
-| Hard       | 4     |
+| Hard       | 5     |
 
 ---
 
