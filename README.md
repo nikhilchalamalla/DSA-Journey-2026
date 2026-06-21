@@ -29,12 +29,12 @@ The goal of this repository is to:
 | Queue               | 0      |
 | Trees               | 1      |
 | Graphs              | 2      |
-| Greedy              | 1      |
+| Greedy              | 2      |
 | Math                | 2      |
 | Dynamic Programming | 1      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 20**
+**Total Problems Solved: 21**
 
 ---
 
@@ -91,6 +91,7 @@ The goal of this repository is to:
 
 | Problem No | Problem Name                                 | Difficulty |
 | ---------- | -------------------------------------------- | ---------- |
+| 1833       | Maximum Ice Cream Bars                       | Medium     |
 | 2144       | Minimum Cost of Buying Candies With Discount | Easy       |
 
 ---
@@ -158,6 +159,7 @@ DSA-Journey-2026
 │   └── 3559_Number_Of_Ways_To_Assign_Edge_Weights_II.cpp
 │
 ├── Greedy
+│   ├── 1833_Maximum_Ice_Cream_Bars.cpp
 │   └── 2144_Minimum_Cost_Of_Buying_Candies_With_Discount.cpp
 │
 ├── Math
@@ -217,11 +219,12 @@ DSA-Journey-2026
 - ✅ First Reverse Processing String Problem Solved
 - ✅ First Clock Geometry Problem Solved
 - ✅ First Prefix Sum Problem Solved
+- ✅ First Counting Sort Based Greedy Problem Solved
 - ✅ First Advanced Greedy + Math Problem Solved
 - ✅ First Digit DP Problem Solved
 - ✅ First Priority Queue Problem Solved
-- 🔥 Maintaining Daily LeetCode Streak (51 Days)
-- 🎯 Reached 20 Documented Problems
+- 🔥 Maintaining Daily LeetCode Streak (52 Days)
+- 🎯 Reached 21 Documented Problems
 
 ---
 
@@ -230,7 +233,7 @@ DSA-Journey-2026
 | Difficulty | Count |
 | ---------- | ----- |
 | Easy       | 5     |
-| Medium     | 10    |
+| Medium     | 11    |
 | Hard       | 5     |
 
 ---
