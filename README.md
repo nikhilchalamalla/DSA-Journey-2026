@@ -23,7 +23,7 @@ The goal of this repository is to:
 | Topic               | Solved |
 | ------------------- | ------ |
 | Arrays              | 6      |
-| Strings             | 3      |
+| Strings             | 4      |
 | Linked List         | 2      |
 | Stack               | 0      |
 | Queue               | 0      |
@@ -34,7 +34,7 @@ The goal of this repository is to:
 | Dynamic Programming | 1      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 21**
+**Total Problems Solved: 22**
 
 ---
 
@@ -55,6 +55,7 @@ The goal of this repository is to:
 
 | Problem No | Problem Name                              | Difficulty |
 | ---------- | ----------------------------------------- | ---------- |
+| 1189       | Maximum Number of Balloons                | Easy       |
 | 3612       | Process String with Special Operations I  | Medium     |
 | 3614       | Process String with Special Operations II | Hard       |
 | 3838       | Weighted Word Mapping                     | Easy       |
@@ -143,6 +144,7 @@ DSA-Journey-2026
 │   └── 3689_Maximum_Total_Subarray_Value_I.cpp
 │
 ├── Strings
+│   ├── 1189_Maximum_Number_Of_Balloons.cpp
 │   ├── 3612_Process_String_With_Special_Operations_I.cpp
 │   ├── 3614_Process_String_With_Special_Operations_II.cpp
 │   └── 3838_Weighted_Word_Mapping.cpp
@@ -220,11 +222,12 @@ DSA-Journey-2026
 - ✅ First Clock Geometry Problem Solved
 - ✅ First Prefix Sum Problem Solved
 - ✅ First Counting Sort Based Greedy Problem Solved
+- ✅ First Character Frequency Counting Problem Solved
 - ✅ First Advanced Greedy + Math Problem Solved
 - ✅ First Digit DP Problem Solved
 - ✅ First Priority Queue Problem Solved
 - 🔥 Maintaining Daily LeetCode Streak (52 Days)
-- 🎯 Reached 21 Documented Problems
+- 🎯 Reached 22 Documented Problems
 
 ---
 
@@ -232,7 +235,7 @@ DSA-Journey-2026
 
 | Difficulty | Count |
 | ---------- | ----- |
-| Easy       | 5     |
+| Easy       | 6     |
 | Medium     | 11    |
 | Hard       | 5     |
 
