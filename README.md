@@ -31,10 +31,10 @@ The goal of this repository is to:
 | Graphs              | 2      |
 | Greedy              | 2      |
 | Math                | 2      |
-| Dynamic Programming | 1      |
+| Dynamic Programming | 2      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 22**
+**Total Problems Solved: 23**
 
 ---
 
@@ -110,7 +110,8 @@ The goal of this repository is to:
 
 | Problem No | Problem Name                          | Difficulty |
 | ---------- | ------------------------------------- | ---------- |
-| 3753       | Total Waviness of Numbers in Range II | Hard       |
+| 3699       | Number Of ZigZag Arrays I             | Hard       |
+| 3753       | Total Waviness Of Numbers In Range II | Hard       |
 
 ---
 
@@ -169,6 +170,7 @@ DSA-Journey-2026
 │   └── 3751_Total_Waviness_Of_Numbers_In_Range_I.cpp
 │
 ├── Dynamic_Programming
+│   ├── 3699_Number_Of_ZigZag_Arrays_I.cpp
 │   └── 3753_Total_Waviness_Of_Numbers_In_Range_II.cpp
 │
 ├── Priority_Queue
@@ -223,11 +225,12 @@ DSA-Journey-2026
 - ✅ First Prefix Sum Problem Solved
 - ✅ First Counting Sort Based Greedy Problem Solved
 - ✅ First Character Frequency Counting Problem Solved
+- ✅ First ZigZag Dynamic Programming Problem Solved
 - ✅ First Advanced Greedy + Math Problem Solved
 - ✅ First Digit DP Problem Solved
 - ✅ First Priority Queue Problem Solved
-- 🔥 Maintaining Daily LeetCode Streak (52 Days)
-- 🎯 Reached 22 Documented Problems
+- 🔥 Maintaining Daily LeetCode Streak (53 Days)
+- 🎯 Reached 23 Documented Problems
 
 ---
 
@@ -237,7 +240,7 @@ DSA-Journey-2026
 | ---------- | ----- |
 | Easy       | 6     |
 | Medium     | 11    |
-| Hard       | 5     |
+| Hard       | 6     |
 
 ---
 
