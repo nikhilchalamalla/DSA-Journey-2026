@@ -35,7 +35,8 @@ Time Complexity: O(n²)
 Space Complexity: O(1)
 */
 #include <bits/stdc++.h>
-    using namespace std;
+#include <vector>
+using namespace std;
 
 class Solution
 {
