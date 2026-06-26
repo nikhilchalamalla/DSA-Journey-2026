@@ -1,20 +1,21 @@
+````markdown
 # DSA Journey 2026 🚀
 
 Welcome to my Data Structures and Algorithms Journey.
 
 This repository contains my solutions to coding problems solved on various platforms such as:
 
-* LeetCode
-* GeeksforGeeks
-* HackerRank
-* Coding Ninjas
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+- Coding Ninjas
 
 The goal of this repository is to:
 
-* Strengthen problem-solving skills
-* Prepare for coding interviews
-* Improve DSA concepts
-* Track daily learning progress
+- Strengthen problem-solving skills
+- Prepare for coding interviews
+- Improve DSA concepts
+- Track daily learning progress
 
 ---
 
@@ -22,7 +23,7 @@ The goal of this repository is to:
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 7      |
+| Arrays              | 8      |
 | Strings             | 4      |
 | Linked List         | 2      |
 | Stack               | 0      |
@@ -34,7 +35,7 @@ The goal of this repository is to:
 | Dynamic Programming | 2      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 24**
+**Total Problems Solved: 25**
 
 ---
 
@@ -49,6 +50,7 @@ The goal of this repository is to:
 | 3635       | Earliest Finish Time for Land and Water Rides II | Medium     |
 | 3689       | Maximum Total Subarray Value I                   | Medium     |
 | 3737       | Count Subarrays With Majority Element I          | Medium     |
+| 3739       | Count Subarrays With Majority Element II         | Hard       |
 
 ---
 
@@ -144,7 +146,8 @@ DSA-Journey-2026
 │   ├── 3633_Earliest_Finish_Time_For_Land_And_Water_Rides_I.cpp
 │   ├── 3635_Earliest_Finish_Time_For_Land_And_Water_Rides_II.cpp
 │   ├── 3689_Maximum_Total_Subarray_Value_I.cpp
-│   └── 3737_Count_Subarrays_With_Majority_Element_I.cpp
+│   ├── 3737_Count_Subarrays_With_Majority_Element_I.cpp
+│   └── 3739_Count_Subarrays_With_Majority_Element_II.cpp
 │
 ├── Strings
 │   ├── 1189_Maximum_Number_Of_Balloons.cpp
@@ -188,52 +191,53 @@ DSA-Journey-2026
 
 ## Languages Used
 
-* C++
+- C++
 
 ---
 
 ## Platforms
 
-* LeetCode
-* GeeksforGeeks
-* HackerRank
-* Coding Ninjas
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+- Coding Ninjas
 
 ---
 
 ## Current Goal
 
-* Solve 300+ DSA problems
-* Master core data structures and algorithms
-* Prepare for product-based company interviews
-* Improve problem-solving consistency
+- Solve 300+ DSA problems
+- Master core data structures and algorithms
+- Prepare for product-based company interviews
+- Improve problem-solving consistency
 
 ---
 
 ## Milestones
 
-* ✅ First LeetCode Easy Problem Added
-* ✅ First LeetCode Medium Problem Added
-* ✅ First LeetCode Hard Problem Added
-* ✅ First Linked List Problem Solved
-* ✅ Solved Multiple Linked List Problems
-* ✅ First Tree Construction Problem Solved
-* ✅ First Graph Problem Solved
-* ✅ First LCA (Lowest Common Ancestor) Problem Solved
-* ✅ First String Mapping Problem Solved
-* ✅ First String Simulation Problem Solved
-* ✅ First Reverse Processing String Problem Solved
-* ✅ First Clock Geometry Problem Solved
-* ✅ First Prefix Sum Problem Solved
-* ✅ First Counting Sort Based Greedy Problem Solved
-* ✅ First Character Frequency Counting Problem Solved
-* ✅ First Majority Element Subarray Problem Solved
-* ✅ First ZigZag Dynamic Programming Problem Solved
-* ✅ First Advanced Greedy + Math Problem Solved
-* ✅ First Digit DP Problem Solved
-* ✅ First Priority Queue Problem Solved
-* 🔥 Maintaining Daily LeetCode Streak (55 Days)
-* 🎯 Reached 24 Documented Problems
+- ✅ First LeetCode Easy Problem Added
+- ✅ First LeetCode Medium Problem Added
+- ✅ First LeetCode Hard Problem Added
+- ✅ First Linked List Problem Solved
+- ✅ Solved Multiple Linked List Problems
+- ✅ First Tree Construction Problem Solved
+- ✅ First Graph Problem Solved
+- ✅ First LCA (Lowest Common Ancestor) Problem Solved
+- ✅ First String Mapping Problem Solved
+- ✅ First String Simulation Problem Solved
+- ✅ First Reverse Processing String Problem Solved
+- ✅ First Clock Geometry Problem Solved
+- ✅ First Prefix Sum Problem Solved
+- ✅ First Counting Sort Based Greedy Problem Solved
+- ✅ First Character Frequency Counting Problem Solved
+- ✅ First Majority Element Subarray Problem Solved
+- ✅ First Optimized Prefix Balance Problem Solved
+- ✅ First ZigZag Dynamic Programming Problem Solved
+- ✅ First Advanced Greedy + Math Problem Solved
+- ✅ First Digit DP Problem Solved
+- ✅ First Priority Queue Problem Solved
+- 🔥 Maintaining Daily LeetCode Streak (57 Days)
+- 🎯 Reached 25 Documented Problems
 
 ---
 
@@ -243,7 +247,7 @@ DSA-Journey-2026
 | ---------- | ----- |
 | Easy       | 6     |
 | Medium     | 12    |
-| Hard       | 6     |
+| Hard       | 7     |
 
 ---
 
@@ -257,7 +261,7 @@ June 2026
 
 ### Connect With Me
 
-* GitHub: https://github.com/nikhilchalamalla
-* LinkedIn: https://www.linkedin.com/in/chalamalla-nikhil/
+- GitHub: https://github.com/nikhilchalamalla
+- LinkedIn: https://www.linkedin.com/in/chalamalla-nikhil/
 
 ⭐ If you find this repository useful, feel free to star it and follow my coding journey!
