@@ -31,11 +31,11 @@ The goal of this repository is to:
 | Trees               | 1      |
 | Graphs              | 2      |
 | Greedy              | 2      |
-| Math                | 2      |
+| Math                | 3      |
 | Dynamic Programming | 2      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 25**
+**Total Problems Solved: 26**
 
 ---
 
@@ -102,10 +102,11 @@ The goal of this repository is to:
 
 ## Math
 
-| Problem No | Problem Name                         | Difficulty |
-| ---------- | ------------------------------------ | ---------- |
-| 1344       | Angle Between Hands of a Clock       | Medium     |
-| 3751       | Total Waviness of Numbers in Range I | Medium     |
+| Problem No | Problem Name                                  | Difficulty |
+| ---------- | --------------------------------------------- | ---------- |
+| 1344       | Angle Between Hands of a Clock                | Medium     |
+| 3020       | Find the Maximum Number of Elements in Subset | Medium     |
+| 3751       | Total Waviness of Numbers in Range I          | Medium     |
 
 ---
 
@@ -172,6 +173,7 @@ DSA-Journey-2026
 │
 ├── Math
 │   ├── 1344_Angle_Between_Hands_Of_A_Clock.cpp
+│   ├── 3020_Find_The_Maximum_Number_Of_Elements_In_Subset.cpp
 │   └── 3751_Total_Waviness_Of_Numbers_In_Range_I.cpp
 │
 ├── Dynamic_Programming
@@ -233,11 +235,12 @@ DSA-Journey-2026
 - ✅ First Majority Element Subarray Problem Solved
 - ✅ First Optimized Prefix Balance Problem Solved
 - ✅ First ZigZag Dynamic Programming Problem Solved
+- ✅ First Exponential Chain Construction Problem Solved
 - ✅ First Advanced Greedy + Math Problem Solved
 - ✅ First Digit DP Problem Solved
 - ✅ First Priority Queue Problem Solved
-- 🔥 Maintaining Daily LeetCode Streak (57 Days)
-- 🎯 Reached 25 Documented Problems
+- 🔥 Maintaining Daily LeetCode Streak (58 Days)
+- 🎯 Reached 26 Documented Problems
 
 ---
 
@@ -246,7 +249,7 @@ DSA-Journey-2026
 | Difficulty | Count |
 | ---------- | ----- |
 | Easy       | 6     |
-| Medium     | 12    |
+| Medium     | 13    |
 | Hard       | 7     |
 
 ---
@@ -265,3 +268,4 @@ June 2026
 - LinkedIn: https://www.linkedin.com/in/chalamalla-nikhil/
 
 ⭐ If you find this repository useful, feel free to star it and follow my coding journey!
+
