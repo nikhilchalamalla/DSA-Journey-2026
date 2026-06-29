@@ -24,7 +24,7 @@ The goal of this repository is to:
 | Topic               | Solved |
 | ------------------- | ------ |
 | Arrays              | 8      |
-| Strings             | 4      |
+| Strings             | 5      |
 | Linked List         | 2      |
 | Stack               | 0      |
 | Queue               | 0      |
@@ -35,7 +35,7 @@ The goal of this repository is to:
 | Dynamic Programming | 2      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 26**
+**Total Problems Solved: 27**
 
 ---
 
@@ -56,12 +56,13 @@ The goal of this repository is to:
 
 ## Strings
 
-| Problem No | Problem Name                              | Difficulty |
-| ---------- | ----------------------------------------- | ---------- |
-| 1189       | Maximum Number of Balloons                | Easy       |
-| 3612       | Process String with Special Operations I  | Medium     |
-| 3614       | Process String with Special Operations II | Hard       |
-| 3838       | Weighted Word Mapping                     | Easy       |
+| Problem No | Problem Name                                        | Difficulty |
+| ---------- | --------------------------------------------------- | ---------- |
+| 1189       | Maximum Number of Balloons                          | Easy       |
+| 1967       | Number of Strings That Appear as Substrings in Word | Easy       |
+| 3612       | Process String with Special Operations I            | Medium     |
+| 3614       | Process String with Special Operations II           | Hard       |
+| 3838       | Weighted Word Mapping                               | Easy       |
 
 ---
 
@@ -152,6 +153,7 @@ DSA-Journey-2026
 │
 ├── Strings
 │   ├── 1189_Maximum_Number_Of_Balloons.cpp
+│   ├── 1967_Number_Of_Strings_That_Appear_As_Substrings_In_Word.cpp
 │   ├── 3612_Process_String_With_Special_Operations_I.cpp
 │   ├── 3614_Process_String_With_Special_Operations_II.cpp
 │   └── 3838_Weighted_Word_Mapping.cpp
@@ -228,10 +230,11 @@ DSA-Journey-2026
 - ✅ First String Mapping Problem Solved
 - ✅ First String Simulation Problem Solved
 - ✅ First Reverse Processing String Problem Solved
+- ✅ First Character Frequency Counting Problem Solved
+- ✅ First Substring Matching Problem Solved
 - ✅ First Clock Geometry Problem Solved
 - ✅ First Prefix Sum Problem Solved
 - ✅ First Counting Sort Based Greedy Problem Solved
-- ✅ First Character Frequency Counting Problem Solved
 - ✅ First Majority Element Subarray Problem Solved
 - ✅ First Optimized Prefix Balance Problem Solved
 - ✅ First ZigZag Dynamic Programming Problem Solved
@@ -239,8 +242,8 @@ DSA-Journey-2026
 - ✅ First Advanced Greedy + Math Problem Solved
 - ✅ First Digit DP Problem Solved
 - ✅ First Priority Queue Problem Solved
-- 🔥 Maintaining Daily LeetCode Streak (58 Days)
-- 🎯 Reached 26 Documented Problems
+- 🔥 Maintaining Daily LeetCode Streak (60 Days)
+- 🎯 Reached 27 Documented Problems
 
 ---
 
@@ -248,7 +251,7 @@ DSA-Journey-2026
 
 | Difficulty | Count |
 | ---------- | ----- |
-| Easy       | 6     |
+| Easy       | 7     |
 | Medium     | 13    |
 | Hard       | 7     |
 
