@@ -1,4 +1,3 @@
-````markdown
 # DSA Journey 2026 🚀
 
 Welcome to my Data Structures and Algorithms Journey.
@@ -24,7 +23,7 @@ The goal of this repository is to:
 | Topic               | Solved |
 | ------------------- | ------ |
 | Arrays              | 8      |
-| Strings             | 5      |
+| Strings             | 6      |
 | Linked List         | 2      |
 | Stack               | 0      |
 | Queue               | 0      |
@@ -35,7 +34,7 @@ The goal of this repository is to:
 | Dynamic Programming | 2      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 27**
+**Total Problems Solved: 28**
 
 ---
 
@@ -56,13 +55,14 @@ The goal of this repository is to:
 
 ## Strings
 
-| Problem No | Problem Name                                        | Difficulty |
-| ---------- | --------------------------------------------------- | ---------- |
-| 1189       | Maximum Number of Balloons                          | Easy       |
-| 1967       | Number of Strings That Appear as Substrings in Word | Easy       |
-| 3612       | Process String with Special Operations I            | Medium     |
-| 3614       | Process String with Special Operations II           | Hard       |
-| 3838       | Weighted Word Mapping                               | Easy       |
+| Problem No | Problem Name                                         | Difficulty |
+| ---------- | ---------------------------------------------------- | ---------- |
+| 1189       | Maximum Number of Balloons                           | Easy       |
+| 1358       | Number of Substrings Containing All Three Characters | Medium     |
+| 1967       | Number of Strings That Appear as Substrings in Word  | Easy       |
+| 3612       | Process String with Special Operations I             | Medium     |
+| 3614       | Process String with Special Operations II            | Hard       |
+| 3838       | Weighted Word Mapping                                | Easy       |
 
 ---
 
@@ -153,6 +153,7 @@ DSA-Journey-2026
 │
 ├── Strings
 │   ├── 1189_Maximum_Number_Of_Balloons.cpp
+│   ├── 1358_Number_Of_Substrings_Containing_All_Three_Characters.cpp
 │   ├── 1967_Number_Of_Strings_That_Appear_As_Substrings_In_Word.cpp
 │   ├── 3612_Process_String_With_Special_Operations_I.cpp
 │   ├── 3614_Process_String_With_Special_Operations_II.cpp
@@ -232,6 +233,7 @@ DSA-Journey-2026
 - ✅ First Reverse Processing String Problem Solved
 - ✅ First Character Frequency Counting Problem Solved
 - ✅ First Substring Matching Problem Solved
+- ✅ First Sliding Window / Last Seen Index Problem Solved
 - ✅ First Clock Geometry Problem Solved
 - ✅ First Prefix Sum Problem Solved
 - ✅ First Counting Sort Based Greedy Problem Solved
@@ -242,8 +244,8 @@ DSA-Journey-2026
 - ✅ First Advanced Greedy + Math Problem Solved
 - ✅ First Digit DP Problem Solved
 - ✅ First Priority Queue Problem Solved
-- 🔥 Maintaining Daily LeetCode Streak (60 Days)
-- 🎯 Reached 27 Documented Problems
+- 🔥 Maintaining Daily LeetCode Streak (61 Days)
+- 🎯 Reached 28 Documented Problems
 
 ---
 
@@ -252,7 +254,7 @@ DSA-Journey-2026
 | Difficulty | Count |
 | ---------- | ----- |
 | Easy       | 7     |
-| Medium     | 13    |
+| Medium     | 14    |
 | Hard       | 7     |
 
 ---
@@ -271,4 +273,3 @@ June 2026
 - LinkedIn: https://www.linkedin.com/in/chalamalla-nikhil/
 
 ⭐ If you find this repository useful, feel free to star it and follow my coding journey!
-````
