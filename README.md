@@ -5,9 +5,6 @@ Welcome to my Data Structures and Algorithms Journey.
 This repository contains my solutions to coding problems solved on various platforms such as:
 
 - LeetCode
-- GeeksforGeeks
-- HackerRank
-- Coding Ninjas
 
 The goal of this repository is to:
 
@@ -28,13 +25,13 @@ The goal of this repository is to:
 | Stack               | 0      |
 | Queue               | 0      |
 | Trees               | 1      |
-| Graphs              | 2      |
+| Graphs              | 3      |
 | Greedy              | 2      |
 | Math                | 3      |
 | Dynamic Programming | 2      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 28**
+**Total Problems Solved: 29**
 
 ---
 
@@ -87,6 +84,7 @@ The goal of this repository is to:
 
 | Problem No | Problem Name                             | Difficulty |
 | ---------- | ---------------------------------------- | ---------- |
+| 2812       | Find the Safest Path in a Grid           | Medium     |
 | 3558       | Number of Ways to Assign Edge Weights I  | Medium     |
 | 3559       | Number of Ways to Assign Edge Weights II | Hard       |
 
@@ -167,6 +165,7 @@ DSA-Journey-2026
 │   └── 2196_Create_Binary_Tree_From_Descriptions.cpp
 │
 ├── Graphs
+│   ├── 2812_Find_The_Safest_Path_In_A_Grid.cpp
 │   ├── 3558_Number_Of_Ways_To_Assign_Edge_Weights_I.cpp
 │   └── 3559_Number_Of_Ways_To_Assign_Edge_Weights_II.cpp
 │
@@ -203,9 +202,6 @@ DSA-Journey-2026
 ## Platforms
 
 - LeetCode
-- GeeksforGeeks
-- HackerRank
-- Coding Ninjas
 
 ---
 
@@ -220,32 +216,8 @@ DSA-Journey-2026
 
 ## Milestones
 
-- ✅ First LeetCode Easy Problem Added
-- ✅ First LeetCode Medium Problem Added
-- ✅ First LeetCode Hard Problem Added
-- ✅ First Linked List Problem Solved
-- ✅ Solved Multiple Linked List Problems
-- ✅ First Tree Construction Problem Solved
-- ✅ First Graph Problem Solved
-- ✅ First LCA (Lowest Common Ancestor) Problem Solved
-- ✅ First String Mapping Problem Solved
-- ✅ First String Simulation Problem Solved
-- ✅ First Reverse Processing String Problem Solved
-- ✅ First Character Frequency Counting Problem Solved
-- ✅ First Substring Matching Problem Solved
-- ✅ First Sliding Window / Last Seen Index Problem Solved
-- ✅ First Clock Geometry Problem Solved
-- ✅ First Prefix Sum Problem Solved
-- ✅ First Counting Sort Based Greedy Problem Solved
-- ✅ First Majority Element Subarray Problem Solved
-- ✅ First Optimized Prefix Balance Problem Solved
-- ✅ First ZigZag Dynamic Programming Problem Solved
-- ✅ First Exponential Chain Construction Problem Solved
-- ✅ First Advanced Greedy + Math Problem Solved
-- ✅ First Digit DP Problem Solved
-- ✅ First Priority Queue Problem Solved
-- 🔥 Maintaining Daily LeetCode Streak (61 Days)
-- 🎯 Reached 28 Documented Problems
+- 🔥 Maintaining Daily LeetCode Streak (62 Days)
+- 🎯 Reached 29 Documented Problems
 
 ---
 
@@ -254,7 +226,7 @@ DSA-Journey-2026
 | Difficulty | Count |
 | ---------- | ----- |
 | Easy       | 7     |
-| Medium     | 14    |
+| Medium     | 15    |
 | Hard       | 7     |
 
 ---
