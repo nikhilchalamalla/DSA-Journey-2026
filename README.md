@@ -25,13 +25,13 @@ The goal of this repository is to:
 | Stack               | 0      |
 | Queue               | 0      |
 | Trees               | 1      |
-| Graphs              | 3      |
+| Graphs              | 4      |
 | Greedy              | 2      |
 | Math                | 3      |
 | Dynamic Programming | 2      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 29**
+**Total Problems Solved: 30**
 
 ---
 
@@ -85,6 +85,7 @@ The goal of this repository is to:
 | Problem No | Problem Name                             | Difficulty |
 | ---------- | ---------------------------------------- | ---------- |
 | 2812       | Find the Safest Path in a Grid           | Medium     |
+| 3286       | Find a Safe Walk Through a Grid          | Medium     |
 | 3558       | Number of Ways to Assign Edge Weights I  | Medium     |
 | 3559       | Number of Ways to Assign Edge Weights II | Hard       |
 
@@ -166,6 +167,7 @@ DSA-Journey-2026
 │
 ├── Graphs
 │   ├── 2812_Find_The_Safest_Path_In_A_Grid.cpp
+│   ├── 3286_Find_A_Safe_Walk_Through_A_Grid.cpp
 │   ├── 3558_Number_Of_Ways_To_Assign_Edge_Weights_I.cpp
 │   └── 3559_Number_Of_Ways_To_Assign_Edge_Weights_II.cpp
 │
@@ -216,8 +218,8 @@ DSA-Journey-2026
 
 ## Milestones
 
-- 🔥 Maintaining Daily LeetCode Streak (62 Days)
-- 🎯 Reached 29 Documented Problems
+- 🔥 Maintaining Daily LeetCode Streak (63 Days)
+- 🎯 Reached 30 Documented Problems
 
 ---
 
@@ -226,7 +228,7 @@ DSA-Journey-2026
 | Difficulty | Count |
 | ---------- | ----- |
 | Easy       | 7     |
-| Medium     | 15    |
+| Medium     | 16    |
 | Hard       | 7     |
 
 ---
