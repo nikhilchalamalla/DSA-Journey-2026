@@ -25,13 +25,13 @@ The goal of this repository is to:
 | Stack               | 0      |
 | Queue               | 0      |
 | Trees               | 1      |
-| Graphs              | 4      |
+| Graphs              | 5      |
 | Greedy              | 2      |
 | Math                | 3      |
 | Dynamic Programming | 2      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 30**
+**Total Problems Solved: 31**
 
 ---
 
@@ -88,6 +88,7 @@ The goal of this repository is to:
 | 3286       | Find a Safe Walk Through a Grid          | Medium     |
 | 3558       | Number of Ways to Assign Edge Weights I  | Medium     |
 | 3559       | Number of Ways to Assign Edge Weights II | Hard       |
+| 3620       | Network Recovery Pathways                | Hard       |
 
 ---
 
@@ -169,7 +170,8 @@ DSA-Journey-2026
 │   ├── 2812_Find_The_Safest_Path_In_A_Grid.cpp
 │   ├── 3286_Find_A_Safe_Walk_Through_A_Grid.cpp
 │   ├── 3558_Number_Of_Ways_To_Assign_Edge_Weights_I.cpp
-│   └── 3559_Number_Of_Ways_To_Assign_Edge_Weights_II.cpp
+│   ├── 3559_Number_Of_Ways_To_Assign_Edge_Weights_II.cpp
+│   └── 3620_Network_Recovery_Pathways.cpp
 │
 ├── Greedy
 │   ├── 1833_Maximum_Ice_Cream_Bars.cpp
@@ -218,8 +220,8 @@ DSA-Journey-2026
 
 ## Milestones
 
-- 🔥 Maintaining Daily LeetCode Streak (63 Days)
-- 🎯 Reached 30 Documented Problems
+- 🔥 Maintaining Daily LeetCode Streak (64 Days)
+- 🎯 Reached 31 Documented Problems
 
 ---
 
@@ -229,7 +231,7 @@ DSA-Journey-2026
 | ---------- | ----- |
 | Easy       | 7     |
 | Medium     | 16    |
-| Hard       | 7     |
+| Hard       | 8     |
 
 ---
 
