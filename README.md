@@ -28,10 +28,10 @@ The goal of this repository is to:
 | Graphs              | 5      |
 | Greedy              | 2      |
 | Math                | 3      |
-| Dynamic Programming | 2      |
+| Dynamic Programming | 3      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 31**
+**Total Problems Solved: 32**
 
 ---
 
@@ -115,6 +115,7 @@ The goal of this repository is to:
 
 | Problem No | Problem Name                          | Difficulty |
 | ---------- | ------------------------------------- | ---------- |
+| 1301       | Number of Paths with Max Score        | Hard       |
 | 3699       | Number Of ZigZag Arrays I             | Hard       |
 | 3753       | Total Waviness Of Numbers In Range II | Hard       |
 
@@ -183,6 +184,7 @@ DSA-Journey-2026
 │   └── 3751_Total_Waviness_Of_Numbers_In_Range_I.cpp
 │
 ├── Dynamic_Programming
+│   ├── 1301_Number_Of_Paths_With_Max_Score.cpp
 │   ├── 3699_Number_Of_ZigZag_Arrays_I.cpp
 │   └── 3753_Total_Waviness_Of_Numbers_In_Range_II.cpp
 │
@@ -193,59 +195,33 @@ DSA-Journey-2026
 │   └── 1840_Maximum_Building_Height.cpp
 │
 └── README.md
-```
-
----
-
-## Languages Used
-
-- C++
-
----
-
-## Platforms
-
-- LeetCode
-
----
-
-## Current Goal
-
-- Solve 300+ DSA problems
-- Master core data structures and algorithms
-- Prepare for product-based company interviews
-- Improve problem-solving consistency
-
----
-
-## Milestones
-
-- 🔥 Maintaining Daily LeetCode Streak (64 Days)
-- 🎯 Reached 31 Documented Problems
-
----
-
-## Difficulty Breakdown
-
-| Difficulty | Count |
-| ---------- | ----- |
-| Easy       | 7     |
-| Medium     | 16    |
-| Hard       | 8     |
-
----
-
-## Started On
+Languages Used
+C++
+Platforms
+LeetCode
+Current Goal
+Solve 300+ DSA problems
+Master core data structures and algorithms
+Prepare for product-based company interviews
+Improve problem-solving consistency
+Milestones
+🔥 Maintaining Daily LeetCode Streak (66 Days)
+🎯 Reached 32 Documented Problems
+Difficulty Breakdown
+Difficulty	Count
+Easy	7
+Medium	16
+Hard	9
+Started On
 
 June 2026
 
-## Maintained By
+Maintained By
 
-**Nikhil Chalamalla**
+Nikhil Chalamalla
 
-### Connect With Me
-
-- GitHub: https://github.com/nikhilchalamalla
-- LinkedIn: https://www.linkedin.com/in/chalamalla-nikhil/
+Connect With Me
+GitHub: https://github.com/nikhilchalamalla
+LinkedIn: https://www.linkedin.com/in/chalamalla-nikhil/
 
 ⭐ If you find this repository useful, feel free to star it and follow my coding journey!
