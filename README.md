@@ -27,11 +27,11 @@ The goal of this repository is to:
 | Trees               | 1      |
 | Graphs              | 8      |
 | Greedy              | 3      |
-| Math                | 6      |
+| Math                | 7      |
 | Dynamic Programming | 4      |
 | Priority Queue      | 1      |
 
-**Total Problems Solved: 41**
+**Total Problems Solved: 42**
 
 ---
 
@@ -58,8 +58,8 @@ The goal of this repository is to:
 
 ## Milestones
 
-- 🔥 Maintaining Daily LeetCode Streak (76 Days)
-- 🎯 Reached 41 Documented Problems
+- 🔥 Maintaining Daily LeetCode Streak (77 Days)
+- 🎯 Reached 42 Documented Problems
 
 ---
 
@@ -67,7 +67,7 @@ The goal of this repository is to:
 
 | Difficulty | Count |
 | ---------- | ----- |
-| Easy       | 10    |
+| Easy       | 11    |
 | Medium     | 20    |
 | Hard       | 11    |
 
